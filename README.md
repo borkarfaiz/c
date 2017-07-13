@@ -1,2 +1,2 @@
 # c
-here the repository contain what i have learn in python
+here the repository contain what i have learn in C
